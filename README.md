@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=KHZFpRL3Xzc
 
 I willing to share my code, but the code is up to 50MB( after being zipped),
 you're welcome to ask me for code and I will send to you in proper way~
+
+You can check this game:
+https://shuinvy.github.io/Sudoku_Jigsaw/
